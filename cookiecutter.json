@@ -1,0 +1,12 @@
+{
+  "full_name": "Zack Buhman",
+  "email": "zack@buhman.org",
+  "github_username": "ptpb",
+  "github_token": "",
+  "circleci_token": "",
+  "project_name": "",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "project_short_description": "",
+  "pypi_username": "{{ cookiecutter.github_username }}",
+  "license": ["GNU Affero General Public License v3 or later (AGPLv3+)"]
+}

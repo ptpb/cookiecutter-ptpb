@@ -1,0 +1,3 @@
+cookiecutter>=1.5.1
+GitPython>=2.1.3
+PyGithub>=1.32

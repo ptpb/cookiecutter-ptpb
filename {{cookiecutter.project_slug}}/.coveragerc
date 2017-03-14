@@ -1,0 +1,5 @@
+[run]
+source = {{ cookiecutter.project_slug }}
+omit =
+     site-packages
+     tests
